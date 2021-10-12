@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class HomeView extends StatefulWidget{
+class Home extends StatefulWidget{
   const HomeView({Key? key) : super(key: key);
 
   @override
